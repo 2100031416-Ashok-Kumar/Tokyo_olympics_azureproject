@@ -1,0 +1,9 @@
+{
+	"name": "olymics-dataf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d643921c-3d95-4d71-8834-55b4e2123339",
+		"tenantId": "808cc83e-a546-47e7-a03f-73a1ebba24f3"
+	}
+}
